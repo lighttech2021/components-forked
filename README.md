@@ -1,7 +1,5 @@
 # Signoz Components Library
 
-test
-
 This guide explains how to use Signoz components library powered by Turborepo, React, and Storybook.
 
 ## Getting Started
